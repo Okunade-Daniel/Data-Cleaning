@@ -1,5 +1,5 @@
 # Data-Cleaning
-Prepare the Fifa players' Data for analysis
+> Preparing the Fifa players' Data for analysis
 # INTRODUCTION
 Data Cleaning is a vital skill for Data Analysts as it prepares and validates data for analysis. Data Cleaning is the process of tidying the data within a dataset. It involves fixing or removing incomplete, corrupted, inconsistent, wrongly formatted or duplicated data. This is important because it ensures the accuracy and reliability of data analysis.
 
